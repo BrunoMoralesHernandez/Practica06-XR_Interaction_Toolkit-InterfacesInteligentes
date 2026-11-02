@@ -10,7 +10,7 @@
 
 ## Descarga
 
-Puedes descargar el archivo `.zip` desde esta carpeta de Drive:  [Acceder a la carpeta](https://drive.google.com/drive/u/1/folders/1puz-Q0d87qw-uOIWlQm1iTQjKeogfSH0)
+Puedes descargar el archivo `.zip` desde esta carpeta de Drive:  [Acceder a la carpeta](https://drive.google.com/file/d/14dzeSaeXruf89mZnZ3-kfccQ-UzwExwV/view?usp=sharing)
 
 ---
 
