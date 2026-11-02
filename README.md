@@ -6,6 +6,11 @@
   * Adriel Reyes Suárez         — alu0101640136@ull.edu.es
 * **Asignatura:** Interfaces Inteligentes
 * **Curso:** 4.º Curso — Ingeniería Informática, ULL — 2026/2027
+---
+
+## Descarga
+
+Puedes descargar el archivo `.zip` desde esta carpeta de Drive:  [Acceder a la carpeta](https://drive.google.com/drive/u/1/folders/1puz-Q0d87qw-uOIWlQm1iTQjKeogfSH0)
 
 ---
 
